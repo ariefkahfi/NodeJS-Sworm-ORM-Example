@@ -1,0 +1,15 @@
+{
+  "name": "belajarnodejs12-orm-withsworm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ariefkahfi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "sworm": "^3.7.1"
+  }
+}
